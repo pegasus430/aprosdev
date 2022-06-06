@@ -3,3 +3,5 @@
 - 🤔 I also have 3 yrs exp in blockchain and cryptocurrency including building the smart contract, Defi/Dex, Swap application.
 - 👯 I’m looking to collaborate on full time and agile/scrum remote teams.
 - 📫 Feel free to ping me anytime you need my expertise.
+
+(https://github-readme-stats.vercel.app/api?username=ilancerdev&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ilancerdev/github-readme-stats)
