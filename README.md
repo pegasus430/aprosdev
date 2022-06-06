@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on full time and agile/scrum remote teams.
 - 📫 Feel free to ping me anytime you need my expertise.
 
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ilancerdev&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
